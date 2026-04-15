@@ -3,6 +3,7 @@ return {
   config = function()
     local lspconfig = require('lspconfig')
     -- vim.lsp.enable('steep')
+    -- vim.lsp.enable('copilot')
     vim.lsp.config('steep', {
       cmd = { 'steep', 'langserver', '--jobs=4' },
       root_dir = lspconfig.util.root_pattern('Steepfile')(vim.fn.getcwd()),
