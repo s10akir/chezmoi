@@ -1,0 +1,6 @@
+# fish
+.config/fish/completions/**
+.config/fish/fish_variables
+.config/fish/functions/fisher.fish
+.config/fish/conf.d/90-local.fish
+.config/fish/themes/**
