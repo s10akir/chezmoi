@@ -1,0 +1,21 @@
+[tools]
+antigravity-cli = "latest"
+"aqua:fish-shell/fish-shell" = "latest"
+bat = "latest"
+chezmoi = "latest"
+claude-code = "latest"
+codex = "latest"
+copilot = "latest"
+fzf = "latest"
+gh = "latest"
+ghq = "latest"
+herdr = "latest"
+neovim = "latest"
+node = "latest"
+ripgrep = "latest"
+yazi = "latest"
+
+[settings]
+
+[settings.ruby]
+compile = false
