@@ -10,10 +10,12 @@ copilot = "latest"
 fzf = "latest"
 gh = "latest"
 ghq = "latest"
+"github:knqyf263/pet" = "latest"
 herdr = "latest"
 neovim = "latest"
 node = "latest"
 ripgrep = "latest"
+usage = "latest"
 yazi = "latest"
 
 [settings]
