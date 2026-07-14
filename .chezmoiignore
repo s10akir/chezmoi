@@ -6,3 +6,10 @@ README.md
 .config/fish/functions/fisher.fish
 .config/fish/conf.d/90-local.fish
 .config/fish/themes/**
+
+# herdr
+.config/herdr/herdr-server.log
+.config/herdr/herdr-client.log
+.config/herdr/release-notes.json
+.config/herdr/session.json
+.config/herdr/session-history.json
