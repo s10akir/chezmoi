@@ -1,5 +1,6 @@
 [tools]
 antigravity-cli = "latest"
+"aqua:dduan/tre" = "latest"
 "aqua:fish-shell/fish-shell" = "latest"
 bat = "latest"
 chezmoi = "latest"
