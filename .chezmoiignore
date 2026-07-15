@@ -13,3 +13,6 @@ README.md
 .config/herdr/release-notes.json
 .config/herdr/session.json
 .config/herdr/session-history.json
+
+# mise
+.config/mise/conf.d/90-local.toml
