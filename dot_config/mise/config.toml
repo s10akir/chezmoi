@@ -17,8 +17,3 @@ node = "latest"
 ripgrep = "latest"
 usage = "latest"
 yazi = "latest"
-
-[settings]
-
-[settings.ruby]
-compile = false
