@@ -14,7 +14,7 @@ return {
   use_fancy_tab_bar = false,
   adjust_window_size_when_changing_font_size = false,
   window_decorations = "RESIZE",
-  window_background_opacity = 0.9,
+  window_background_opacity = 1.0,
 
   keys = {
     {
